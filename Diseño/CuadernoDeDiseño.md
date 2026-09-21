@@ -1,4 +1,4 @@
 
 <p align="center">
-<img src="[[Diseño/Imagenes/creativemagic-cubes-677092_1920.png](https://github.com/Alexus8650/Tecnologia-26-27-4ESO/blob/4ed6bfb0faaeebc56ae8df139dd2b6976fcfb1c0/Dise%C3%B1o/Imagenes/creativemagic-cubes-677092_1920.png)](https://github.com/Alexus8650/Tecnologia-26-27-4ESO/blob/4ed6bfb0faaeebc56ae8df139dd2b6976fcfb1c0/Dise%C3%B1o/Imagenes/creativemagic-cubes-677092_1920.png)" width="300" height="300" />
+<img src="https://github.com/Alexus8650/Tecnologia-26-27-4ESO/blob/4ed6bfb0faaeebc56ae8df139dd2b6976fcfb1c0/Dise%C3%B1o/Imagenes/creativemagic-cubes-677092_1920.png" width="300" height="300" />
 </p>
