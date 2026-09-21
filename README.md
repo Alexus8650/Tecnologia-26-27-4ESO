@@ -10,4 +10,4 @@ En la asignatura trabajaremos con proyectos. Esto conyeba tener más organzado e
 
 | Diseño | Electrónica Básica | Neumática | Teleco Games | ODS |
 | :---: | :---: | :---: | :---: | :---: |
-| git status | git status | git status | git status | git status |
+| [git status](https://github.com/Alexus8650/Tecnologia-26-27-4ESO/tree/90cb7d99420a330b40d66379316bdc095b0081fe/Dise%C3%B1o) | git status | git status | git status | git status |
