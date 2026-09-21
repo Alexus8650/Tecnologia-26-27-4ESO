@@ -4,3 +4,10 @@ Hola, aquí redactaré de la mejor manera posible todos los proyectos que se har
 <p align="center">
 <img src="Imagenes/techmanic-digital-art-8420361.jpg" width="450" height="450" />
 </p>
+
+## Proyectos
+En la asignatura trabajaremos con proyectos. Esto conyeba tener más organzado este repo0sitorio, tengo hechas tantas carpetas como proyectos ha hacer. A continuación los enlaces a cada uno de los proyectos:
+
+| Diseño | Electrónica Básica | Neumática | Teleco Games | ODS |
+| :---: | :---: | :---: | :---: | :---: |
+| git status | git status | git status | git status | git status |
