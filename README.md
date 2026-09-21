@@ -2,5 +2,5 @@
 Hola, aquí redactaré de la mejor manera posible todos los proyectos que se harán este curso 26/27 en Tecnología de 4º ESO. Soy Alejandro Reyes, alumno de tecnología de 4º del IES Az-zait, Jaén.
 
 <p align="center">
-<img src="techmanic-digital-art-8420361.jpg" width="450" height="450" />
+<img src="Imagenes/techmanic-digital-art-8420361.jpg" width="450" height="450" />
 </p>
