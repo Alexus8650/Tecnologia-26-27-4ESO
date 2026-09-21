@@ -8,6 +8,5 @@ Hola, aquí redactaré de la mejor manera posible todos los proyectos que se har
 ## Proyectos
 En la asignatura trabajaremos con proyectos. Esto conyeba tener más organzado este repo0sitorio, tengo hechas tantas carpetas como proyectos ha hacer. A continuación los enlaces a cada uno de los proyectos:
 
-| Diseño | Electrónica Básica | Neumática | Teleco Games | ODS |
+| Diseño | [Electrónica Básica](https://github.com/Alexus8650/Tecnologia-26-27-4ESO/tree/b91bff4d6ea5fdbab5a57cc5fd6e540c7ed5b4d6/Electronica%20Basica) | Neumática | Teleco Games | ODS |
 | :---: | :---: | :---: | :---: | :---: |
-| [git status](https://github.com/Alexus8650/Tecnologia-26-27-4ESO/tree/90cb7d99420a330b40d66379316bdc095b0081fe/Dise%C3%B1o) | git status | git status | git status | git status |
