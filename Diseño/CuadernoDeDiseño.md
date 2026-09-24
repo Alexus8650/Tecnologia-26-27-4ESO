@@ -43,7 +43,7 @@ Para presentar y exponer las ideas tendremos que redactarlas en este cuaderno. H
 | Al lado de la biblioteca | Espacio considerable para botones y verlo; muy transitado; al paso de la entrada; muy visible | Calor extra; cambiar de lugar el tablón del centro y mueble con premios |
 | Al lado del monitor | Da la bienvenida; muy visible; espacio para botones; sin aglomeraciones | Mucha calor; espacio de exposiciones reducido |
 
-A continuación repartiré, con mi criterio, 10 puntos entre los pros y contra de cada idea para ver la más rentable; en el que cuanto más puntos tenga, más peso tiene en la idea. Pongamos el primero de ejemplo, los pros ganan, es viable, pero solo por un punto, tan bueno no es...
+A continuación repartiré, con mi criterio, 10 puntos entre los pros y contra de cada idea para ver la más rentable; en el que la nota de los "pros" es la nota final que le doy a la idea, y la de los contra la pongo para ver el peso numérico que me parecen que tienen.
 
 | Idea | Pros | Contras |
 | :---: | :---: | :---: |
@@ -54,7 +54,12 @@ A continuación repartiré, con mi criterio, 10 puntos entre los pros y contra d
 | Al lado del monitor | 6.5 | 3.5 |
 
 
-
+Con esta última tabla podemos ver mejor como de bien o mal son algunas propuestas:
+1º. 6
+2º. 8.5
+3º. 1
+4º. 7
+5º. 6.5
 
 
 
