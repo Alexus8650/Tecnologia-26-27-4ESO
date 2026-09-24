@@ -4,7 +4,7 @@
 </p>
 
 ## Primer proyecto - Provincia de Jaén
-#### Introducción
+### Introducción
 En este primer proyecto trabajaremos con la maqueta de corcho blanco de la provincia de Jaén. Esta maqueta se hizo en el instituto Az-zait, en colaboración con otros 7 más de la provincia, con la idea de formar la comunidad autónoma de Andalucía. A cada instituto le tocó una provincia distinta:
 - IES Los Cerros (Úbeda - Jaén): 
 - IES Andrés de Vandelvira (Baeza - Jaén): 
