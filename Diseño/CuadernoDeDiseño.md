@@ -26,14 +26,15 @@ La maqueta está situada en el taller de tecnología y dibujo, encima de un tape
 Para presentar y exponer las ideas tendremos que redactarlas en este cuaderno. Hay que puntualizar que las propuestas tendrán que ser lo más realistas y posibles tanto teórica, práctica y económicamente.
 
 
-### Ideas
-1. Enfrente de las escaleras. (Arriba)
-2. Enfrente de las escaleras. (Abajo)
-3. Entre la antigua aula de robótica y recepción.
-4. A la derecha de la entrada a la biblioteca.
-5. A la izquierda del monitor de la entrada.
+### Lluvia de Ideas
+1. Enfrente de las escaleras de los departamentos. (Arriba)
+3. Enfrente de las escaleras de los departamentos. (Abajo)
+4. Entre la antigua aula de robótica y recepción.
+5. A la derecha de la entrada a la biblioteca.
+6. A la izquierda del monitor de la entrada.
 
 
+### Pros y Contras
 
 
 
