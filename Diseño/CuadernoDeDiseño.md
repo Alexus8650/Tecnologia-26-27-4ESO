@@ -41,7 +41,7 @@ Para presentar y exponer las ideas tendremos que redactarlas en este cuaderno. H
 | Escaleras Abajo | Está a buena altura; es visible; sitio muy transitado; espacio para botones y verlo con tiempo; mucha luz | Andamios y profesional para cambiar el cuadro |
 | Entre la antigua de robótica y recepción | Cerca visualmente | Cambiar el corcho de sitio; en el paso para los botones y para verlo; se generan aglomeraciones en el recreo; poca luz |
 | Al lado de la biblioteca | Espacio considerable para botones y verlo; muy transitado; al paso de la entrada; muy visible | Calor extra; cambiar de lugar el tablón del centro y mueble con premios |
-| Al lado del monitor |  |  |
+| Al lado del monitor | Da la bienvenida; muy visible; espacio para botones; sin aglomeraciones | Mucha calor; espacio de exposiciones reducido |
 
 
 
