@@ -21,7 +21,15 @@ Al final se presentó el proyecto en la FANTEC y ganaron el premio de "Andalucí
 
 
 ### Situación
-La maqueta la tenemos en el taller de tecnología y dibujo, encima de un tapete cogiendo polvo. Queremos rehabilitar el proyecto, y nuestro trabajo actual es pensar y proponer un sitio y lugar adecuado para su estancia durante años (esperemos).
+La maqueta está situada en el taller de tecnología y dibujo, encima de un tapete cogiendo polvo. Queremos rehabilitar el proyecto, y nuestro trabajo actual es pensar y proponer un sitio y lugar adecuado para su estancia durante años (esperemos).
+
+Para presentar y exponer las ideas tendremos que redactarlas en este cuaderno.
+
+
+### Ideas
+
+
+
 
 
 
