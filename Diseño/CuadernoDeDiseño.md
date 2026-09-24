@@ -61,7 +61,7 @@ Con esta última tabla podemos ver mejor como de bien o mal son algunas propuest
 - 4º - 7
 - 5º - 6.5
 
-
+La segunda propuesta gana, se moverá el cuadro más arriba de la pared y se pondrá la maqueta en su lugar.
 
 
 
