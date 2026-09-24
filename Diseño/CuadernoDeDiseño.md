@@ -55,11 +55,11 @@ A continuación repartiré, con mi criterio, 10 puntos entre los pros y contra d
 
 
 Con esta última tabla podemos ver mejor como de bien o mal son algunas propuestas:
-- 1º. 6
-- 2º. 8.5
-- 3º. 1
-- 4º. 7
-- 5º. 6.5
+- 1º - 6
+- 2º - 8.5
+- 3º - 1
+- 4º - 7
+- 5º - 6.5
 
 
 
