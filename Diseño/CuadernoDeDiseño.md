@@ -47,22 +47,34 @@ A continuación repartiré, con mi criterio, 10 puntos entre los pros y contra d
 
 | Idea | Pros | Contras |
 | :---: | :---: | :---: |
-| Escaleras Arriba |  |  |
-| Escaleras Abajo |  |  |
-| Entre la antigua de robótica y recepción |  |  |
-| Al lado de la biblioteca |  |  |
-| Al lado del monitor |  |  |
-
-<span style="color:red">Este texto es rojo</span>
+| Escaleras Arriba | 5.5 | 4.5 |
+| Escaleras Abajo | 8.5 | 1.5 |
+| Entre la antigua de robótica y recepción | 1 | 9 |
+| Al lado de la biblioteca | 7 | 3 |
+| Al lado del monitor | 6.5 | 3.5 |
 
 
 
 
 
-| Nombre | Estado |
-|---|---|
-| <span style="color:red">Error</span> | ❌ |
-| <span style="color:green">Correcto</span> | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
