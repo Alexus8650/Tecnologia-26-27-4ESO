@@ -59,7 +59,10 @@ A continuación repartiré, con mi criterio, 10 puntos entre los pros y contra d
 
 
 
-
+| Nombre | Estado |
+|---|---|
+| <span style="color:red">Error</span> | ❌ |
+| <span style="color:green">Correcto</span> | ✅ |
 
 
 
