@@ -27,8 +27,8 @@ Para presentar y exponer las ideas tendremos que redactarlas en este cuaderno. H
 
 
 ### Lluvia de Ideas
-1. Enfrente de las escaleras de los departamentos. (Arriba)
-3. Enfrente de las escaleras de los departamentos. (Abajo)
+1. Enfrente de las escaleras de los departamentos. (Arriba del cuadro)
+3. Enfrente de las escaleras de los departamentos. (donde el cuadro y se mueve el cuadro arriba)
 4. Entre la antigua aula de robótica y recepción.
 5. A la derecha de la entrada a la biblioteca.
 6. A la izquierda del monitor de la entrada.
@@ -37,11 +37,11 @@ Para presentar y exponer las ideas tendremos que redactarlas en este cuaderno. H
 ### Pros y Contras
 | Idea | Pros | Contras |
 | :---: | :---: | :---: |
-| Escaleras Arriba | Está alto; es un sitio muy transitado | Necesitamos andamios y un profesional; Está lejos y se ven pequeñas las cosas a esa altura desde abajo |
-
-
-
-
+| Escaleras Arriba | Está alto; es un sitio muy transitado; mucha luz | Necesitamos andamios y un profesional; Está lejos y se ven pequeñas las cosas a esa altura desde abajo |
+| Escaleras Abajo | Está a buena altura; es visible; sitio muy transitado; espacio para botones y verlo con tiempo; mucha luz | Andamios y profesional para cambiar el cuadro |
+| Entre la antigua de robótica y recepción | Cerca visualmente | Cambiar el corcho de sitio; en el paso para los botones y para verlo; se generan aglomeraciones en el recreo; poca luz |
+| Al lado de la biblioteca | Espacio considerable para botones y verlo; muy transitado; al paso de la entrada; muy visible | Calor extra; cambiar de lugar el tablón del centro y mueble con premios |
+| Al lado del monitor |  |  |
 
 
 
