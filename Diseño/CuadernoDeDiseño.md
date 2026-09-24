@@ -35,6 +35,37 @@ Para presentar y exponer las ideas tendremos que redactarlas en este cuaderno. H
 
 
 ### Pros y Contras
+| Idea | Pros | Contras |
+| :---: | :---: | :---: |
+| Escaleras Arriba | Está alto; es un sitio muy transitado | Necesitamos andamios y un profesional; Está lejos y se ven pequeñas las cosas a esa altura desde abajo |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
