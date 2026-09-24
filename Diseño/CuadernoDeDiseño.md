@@ -43,11 +43,17 @@ Para presentar y exponer las ideas tendremos que redactarlas en este cuaderno. H
 | Al lado de la biblioteca | Espacio considerable para botones y verlo; muy transitado; al paso de la entrada; muy visible | Calor extra; cambiar de lugar el tablón del centro y mueble con premios |
 | Al lado del monitor | Da la bienvenida; muy visible; espacio para botones; sin aglomeraciones | Mucha calor; espacio de exposiciones reducido |
 
+A continuación repartiré, con mi criterio, 10 puntos entre los pros y contra de cada idea para ver la más rentable.
 
+| Idea | Pros | Contras |
+| :---: | :---: | :---: |
+| Escaleras Arriba |  |  |
+| Escaleras Abajo |  |  |
+| Entre la antigua de robótica y recepción |  |  |
+| Al lado de la biblioteca |  |  |
+| Al lado del monitor |  |  |
 
-
-
-
+<span style="color:red">Este texto es rojo</span>
 
 
 
