@@ -20,7 +20,7 @@ Al final se presentó el proyecto en la FANTEC y ganaron el premio de "Andalucí
 [Más info](https://www.feriadetecnologia.com/2024/05/22/9947/)
 
 
-#### Situación
+### Situación
 La maqueta la tenemos en el taller de tecnología y dibujo, encima de un tapete cogiendo polvo. Queremos rehabilitar el proyecto, y nuestro trabajo actual es pensar y proponer un sitio y lugar adecuado para su estancia durante años (esperemos).
 
 
