@@ -64,6 +64,15 @@ Con esta última tabla podemos ver mejor como de bien o mal son algunas propuest
 La segunda propuesta gana, se moverá el cuadro más arriba de la pared y se pondrá la maqueta en su lugar.
 
 
+### Parejas
+Ha llegado el punto en el que se han echo parejas en la clase. Somos ocho, tenemos 4 parejas, y yo estoy con Marco para la siguiente parte del trabajo. A continuación lo explico:
+
+Consistirá en elegir, combinar y/o proponer la idea que tenemos ambos, con el objetivo de elegir la mejor de ellas o hacer una mejora a alguna.
+
+En este caso hemos elegido mi propuesta, colocar la maqueta detrás del ascensor, y el cuadro que se encuentra en este sitio subirlo más arriba.
+
+imagen de detrás del ascensor
+
 
 
 
