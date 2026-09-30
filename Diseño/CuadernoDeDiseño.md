@@ -77,7 +77,7 @@ En este caso hemos elegido mi propuesta, colocar la maqueta detrás del ascensor
 
 
 ### Diseño
-Ahora, con las mismas parejas, se debe decidir y diseñar en Tinkercad cómo se va a poner en este sitio elegido.
+Ahora, con las mismas parejas, se debe decidir y diseñar en Tinkercad (Modelador 3D) cómo se va a poner en este sitio elegido.
 [Más info de Tinkercad](https://es.wikipedia.org/wiki/Tinkercad)---[Enlace a Tinkercad](https://www.tinkercad.com/)
 
 
