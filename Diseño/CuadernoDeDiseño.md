@@ -74,7 +74,7 @@ En este caso hemos elegido mi propuesta, colocar la maqueta detrás del ascensor
 imagen de detrás del ascensor
 
 <p align="center">
-<img src="https://github.com/Alexus8650/Tecnologia-26-27-4ESO/blob/10d41ee8146e16af1a8c8df08cce89dccd4d4cd4/Dise%C3%B1o/Imagenes/pedo.PNG" width="300" height="300" />
+<img src="https://github.com/Alexus8650/Tecnologia-26-27-4ESO/blob/10d41ee8146e16af1a8c8df08cce89dccd4d4cd4/Dise%C3%B1o/Imagenes/pedo.PNG"  />
 </p>
 
 
