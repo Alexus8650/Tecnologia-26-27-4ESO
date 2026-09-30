@@ -76,6 +76,8 @@ En este caso hemos elegido mi propuesta, colocar la maqueta detrás del ascensor
 </p>
 
 
+### Diseño
+Ahora, con las mismas parejas, se debe decidir y diseñar en Tinkercad cómo se va a poner en este sitio elegido.
 
 
 
