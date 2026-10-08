@@ -50,7 +50,7 @@ A continuación repartiré, con mi criterio, 10 puntos entre los pros y contra d
 | Escaleras Arriba | 6 | 4 |
 | Escaleras Abajo | 8.5 | 1.5 |
 | Entre la antigua de robótica y recepción | 1 | 9 |
-| Al lado de la biblioteca | 7 | 3 |
+| Al lado de la biblioteca | 7.5 | 2.5 |
 | Al lado del monitor | 6.5 | 3.5 |
 
 
@@ -79,7 +79,7 @@ En este caso hemos elegido mi propuesta, colocar la maqueta detrás del ascensor
 ### Diseño
 Ahora, con las mismas parejas, se debe decidir y diseñar en Tinkercad (Modelador 3D) cómo se va a poner en este sitio elegido.
 
-Este es un boceto a gran escala de donde estaría la provincia
+Este es un boceto a gran escala de donde estaría la provincia.
 
 <p align="center">
 <img src="https://github.com/Alexus8650/Tecnologia-26-27-4ESO/blob/984ab3ef8c9b9f4da2ab9663b7bba81d95d3b18c/Dise%C3%B1o/Imagenes/Bocetro%20provincia.PNG"  />
@@ -88,8 +88,10 @@ Este es un boceto a gran escala de donde estaría la provincia
 [Más info de Tinkercad](https://es.wikipedia.org/wiki/Tinkercad)---[Enlace a Tinkercad](https://www.tinkercad.com/)
 
 
+### Exposición
+Al final el nuestro no ha salido ganador. La maqueta se pondrá en el rincón Erasmus al lado de la biblioteca, mi segunda idea más puntuada en la tabla anterior. 
 
-
+Ahora debemos diseñar en conjunto la idea final se sujeción a la pared. La idea es poner, en una placa de madera, varias piezas en forma de U para sujetar el mapa y otras de S para poder desatornillarlas y sacar el mapa para el mantenimiento.
 
 
 
