@@ -14,7 +14,17 @@ La mía es la siguiente:
 
 ___Un país en una apocalipsis comunicativa___
 
-Imaginate un pais que esté en una situación apocaliptica en la cual todas las comunicaciones has sido saboteadas y lo único que queda de comunicación son los antiguos cables subterráneos en desuso. Al no haberse usado en mucho tiempo hay muchos que no funcionan porque estén cortados o rotos. El país necesita tener una comunicación completa por estos cables aunque haya ciudades que no tengan comunicación directa.
+Imaginate un pais que esté en una situación apocaliptica en la cual todas las comunicaciones has sido saboteadas y lo único que queda de comunicación son los antiguos cables subterráneos en desuso. Al no haberse usado en mucho tiempo hay muchos que no funcionan porque estén cortados o rotos. El país necesita tener una comunicación completa por estos cables aunque haya ciudades que no tengan comunicación directa. Tendrán que buscar la comunicación por otro camino.
+
+
+## Segunda parte: Idea Grupal
+El equipo está compuesto por Daniel (El capital), Adrián, Alberto y yo.
+
+Hemos puesto nuestras ideas en común y al final nos hemos decantado por la idea de Daniel.
+
+___AquaNet City___
+
+Esta propuesta es hacer una ciudad inteligente con el agua. Esta cogerá agua de una balsa, que se 
 
 
 
