@@ -93,9 +93,15 @@ Al final el nuestro no ha salido ganador. La maqueta se pondrá en el rincón Er
 
 Ahora debemos diseñar en conjunto la idea final se sujeción a la pared. La idea es poner, en una placa de madera, varias piezas en forma de U para sujetar el mapa y otras de S para poder desatornillarlas y sacar el mapa para el mantenimiento.
 
+En mi caso me a tocado diseñar una pieza en U, la cual estará posicionada en una zona montañosa de la provincia. Esto hace que tenga que tener más altura que otras piezas.
 
+<p align="center">
+<img src="https://github.com/Alexus8650/Tecnologia-26-27-4ESO/blob/120e6741de2ccf990fe9eede80a3b9ac35874017/Dise%C3%B1o/Imagenes/Pieza%20en%20S.PNG"  />
+</p>
 
+Esta pieza se atornillará al tablero por los agujeros y la solapa opuesta a donde están los agujeros se usará para sujetar el tablero.
 
+Ahora solo falta montarlo y ponerlo en la pared.
 
 
 
