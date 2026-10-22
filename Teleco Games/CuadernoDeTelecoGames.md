@@ -24,7 +24,7 @@ Hemos puesto nuestras ideas en común y al final nos hemos decantado por la idea
 
 ___AquaNet City___
 
-Esta propuesta es hacer una ciudad inteligente con el agua. Esta cogerá agua de una balsa, que se 
+Esta propuesta es hacer una ciudad inteligente con el agua. Esta cogerá agua de una balsa, que se encontrará debajo del tapete
 
 
 
