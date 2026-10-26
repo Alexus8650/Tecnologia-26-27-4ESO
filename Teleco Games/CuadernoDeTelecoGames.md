@@ -24,12 +24,12 @@ Hemos puesto nuestras ideas en común y al final nos hemos decantado por la idea
 
 ___AquaNet City___
 
-Esta propuesta es hacer una ciudad inteligente con el agua. Esta cogerá agua de una balsa, que se encontrará debajo del tapete
+Esta propuesta es hacer una ciudad inteligente con el agua. Esta cogerá agua de una balsa, que se encontrará debajo del tapete. Este agua se transportatá a un depósito que estará en un edificio alto de la ciudad mediante una bomba. Después, desde este depósito, con la fuerza de la gravedad, pasará el agua por unos tubos que llegarán a unas fuentes. El agua que sobra de las fuentes se canaliza hacia otro depósito en el cual se almacenará el agua. Para finalizar, pondremos un sensor de humedad en un huerto/parque y lo regaremos con el aghua de este depósito cuando lo necesite.
 
 
 
 
-
+2, 6 ,7, 8, 9, 11, 13, 14
 
 
 
