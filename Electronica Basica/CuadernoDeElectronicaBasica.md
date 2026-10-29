@@ -5,6 +5,13 @@
 
 
 # Resistencia fija
+Bandas: Azul, Gris, Marrón, Dorada.
+Resistencia: 680
+Calculada: 669
+
 <p align="center">
 <img src="https://github.com/Alexus8650/Tecnologia-26-27-4ESO/blob/3172ba66d0bd58a09d563dd455e50d2d7b2e84e7/Electronica%20Basica/Imagenes/IMG_20261028_100937.jpg" width="250" height="300" />
 </p>
+
+
+#Resistencias variables
