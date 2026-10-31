@@ -43,7 +43,7 @@ A Esto se lo restamos y sumamos a lo que supuestamente tiene (680 Ω) y obtendre
 <img src="https://github.com/Alexus8650/Tecnologia-26-27-4ESO/blob/aefa06920ddc875296906f9bf5e1d19d1a47a069/Electronica%20Basica/Imagenes/Rango.png" width="250" height="300" />
 </p>
 
-Calculada: 669
+Todo lo que esté entre 646-714 Esterá dentro de la tolerancia. En mi caso me midió el polímetro 669 Ω, está dentro de la tolerancia.
 
 # Resistencias variables
 
