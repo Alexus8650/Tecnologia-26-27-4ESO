@@ -24,7 +24,7 @@ En mi caso tengo:
 Siguiendo esta tabla de calculo de resistencia puedo calcular los ohmios que tiene esta que he escogido:
 
 <p align="center">
-<img src="https://github.com/Alexus8650/Tecnologia-26-27-4ESO/blob/6e2057772cd07cf82e37cfe289c469b01aad0bfa/Electronica%20Basica/Imagenes/fresistencais.jpg" width="250" height="300" />
+<img src="https://github.com/Alexus8650/Tecnologia-26-27-4ESO/blob/6e2057772cd07cf82e37cfe289c469b01aad0bfa/Electronica%20Basica/Imagenes/fresistencais.jpg" width="500" height="800" />
 </p>
 
 Calculamos que tenemos delante una resistencai con 680 Ω.
