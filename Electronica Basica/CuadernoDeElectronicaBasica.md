@@ -46,4 +46,5 @@ A Esto se lo restamos y sumamos a lo que supuestamente tiene (680 Ω) y obtendre
 Todo lo que esté entre 646-714 Esterá dentro de la tolerancia. En mi caso me midió el polímetro 669 Ω, está dentro de la tolerancia.
 
 # Resistencias variables
+## Potenciómetro
 
