@@ -5,7 +5,7 @@
 
 
 # Resistencia fija
-Una resistencia fija es la resistencia que no varia de valor desde su fabricación (excepto que se rompa).
+Una resistencia fija es la resistencia que no varia de valor desde su fabricación (excepto que se rompa). Esta resistencia tiene un cable por la parte izquierda y derecha, y se conecta por medio de otro cable de otro material menos conductor. Según la longitud y el material que sea, tendrá más resistencia o menos.
 
 Pero... __¿Para qué sirve una resistencia?__ Las resistencias sirven para aportar resistencia al circuito en el que esté. Y con esto me refiero que hace que sea más complicado que circule la electricidad por el circuito. La resistencia se mide en ohmios (Ω).
 
@@ -46,5 +46,12 @@ A Esto se lo restamos y sumamos a lo que supuestamente tiene (680 Ω) y obtendre
 Todo lo que esté entre 646-714 Esterá dentro de la tolerancia. En mi caso me midió el polímetro 669 Ω, está dentro de la tolerancia.
 
 # Resistencias variables
+Las resistencias variables son las que pueden cambiar su valor de ohmios. En este cuaderno expondré las siguientes:
+- Potenciómetro
+- LDR
+- Resistencia de temperatura
+
+
 ## Potenciómetro
+Los potenciómetros 
 
