@@ -4,7 +4,7 @@
 </p>
 
 
-Teleco Games es una competición de
+Teleco Games es una competición de innovación, creatividad y compañerismo con el objetivo de desarrollar unas mentes más capacitadas en el futuro. El objetivo es hacer un proyecto grupal en el que innoves para mejorar un aspecto de la vida cotidiana de la manera más sostenible y realista posible.
 
 # Primera parte: Idea Individual
 En esta primera parte tenemos que desarrollar la idea que tengamos individualmente.
@@ -13,11 +13,11 @@ La mía es la siguiente:
 
 ___Un país en una apocalipsis comunicativa___
 
-Imaginate un pais que esté en una situación apocaliptica en la cual todas las comunicaciones has sido saboteadas y lo único que queda de comunicación son los antiguos cables subterráneos en desuso. Al no haberse usado en mucho tiempo hay muchos que no funcionan porque estén cortados o rotos. El país necesita tener una comunicación completa por estos cables aunque haya ciudades que no tengan comunicación directa. Tendrán que buscar la comunicación por otro camino.
+Imaginate un pais que esté en una situación apocalíptica en la cual todas las comunicaciones has sido saboteadas y lo único que queda de comunicación son los antiguos cables subterráneos en desuso. Al no haberse usado en mucho tiempo hay muchos que no funcionan porque estén cortados o rotos. El país necesita tener una comunicación completa por estos cables aunque haya ciudades que no tengan comunicación directa. Tendrán que buscar la comunicación por otro camino.
 
 
 # Segunda parte: Idea Grupal
-El equipo está compuesto por Daniel (El capital), Adrián, Alberto y yo.
+El equipo está compuesto por Daniel (El capitán), Adrián, Alberto y yo.
 
 Hemos puesto nuestras ideas en común y al final nos hemos decantado por la idea de Daniel.
 
