@@ -17,7 +17,7 @@ En este primer proyecto trabajaremos con la maqueta de corcho blanco de la provi
 
 Al final se presentó el proyecto en la FANTEC y ganaron el premio de "Andalucía Tech" en 2024.
 
-[Más info](https://www.feriadetecnologia.com/2024/05/22/9947/)
+[Más info](https://feriadetecnologia.es/category/fantec/fantec-2024-fantec/)
 
 
 ### Situación
