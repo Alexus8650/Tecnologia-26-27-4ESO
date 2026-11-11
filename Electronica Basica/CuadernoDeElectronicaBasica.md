@@ -55,3 +55,45 @@ Las resistencias variables son las que pueden cambiar su valor de ohmios. En est
 ## Potenciómetro
 Los potenciómetros 
 
+
+# Diodos
+R=(V<sub>fuente</sub>-V<sub>led</sub>)/I</sub>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
