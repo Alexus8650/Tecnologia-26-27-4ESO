@@ -5,9 +5,14 @@
 
 
 # Resistencia fija
-Una resistencia fija es la resistencia que no varia de valor desde su fabricación (excepto que se rompa). Esta resistencia tiene un cable por la parte izquierda y derecha, y se conecta por medio de otro cable de otro material menos conductor. Según la longitud y el material que sea, tendrá más resistencia o menos.
 
-Pero... __¿Para qué sirve una resistencia?__ Las resistencias sirven para aportar resistencia al circuito en el que esté. Y con esto me refiero que hace que sea más complicado que circule la electricidad por el circuito. La resistencia se mide en ohmios (Ω).
+
+### ¿Para qué sirve?
+Una resistencia fija es un componente electrónico que sirve para disminuir la potencia de un circuito, normalmente usado de protección, pero también utilizado de divisor de voltaje.
+
+
+### Funcionamiento Interno
+
 
 Para saber los ohmios que tiene una resistencia se le ponen unas bandas de colores al rededor:
 
